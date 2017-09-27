@@ -1,0 +1,50 @@
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet'  type='text/css'>
+</head>
+
+<style>
+  h1{
+   font-family:Libre Baskerville; 
+   font-size: 70px;
+  }
+  h2{
+   font-family:Libre Baskerville; 
+   font-size: 25px;
+  }
+  #boot{
+    font-family: Libre Baskerville;
+    font-size:10;
+  }
+  #caption{
+   font-family:Libre Baskerville; 
+   font-size: 12px;
+  }
+</style>
+
+<div class="container">
+  <div class="jumbotron">
+
+    <h1 class="text-center">Tribute to        Leo   Messi
+    </h1>
+    <h2 class="text-center">
+      Genius of modern football - magical "10" from La Masia Barça
+    </h2>
+          <img src="http://images.performgroup.com/di/library/goal_es/be/28/messi-ucl-all-games_1v622wlfla0651jhy9px1b2me1.jpg" class="img-thumbnail" alt="Football genius">
+        <div class="caption img-thumbnail text-center" id="caption"><i>Leo Messi after scoring his 500 goal in FC Barcelona - Barça Legend</i></div>
+    
+            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+    </div>
+    <h3 class="text-center" font-family="Libre Baskerville"><i> 10 facts you would not know about Messi </i></h3>
+ <!--
+    <a href="https://en.wikipedia.org/wiki/Lionel_Messi" target="_blank"> Messi on Wikipedia </a> -->
+  </div> 
+</div>
+
+<div class="text-center">
+  <p id="boot">
+    <i>
+    Coded by LemonPL
+    </i>
+  </p>
+</div>
+<!-- http://www.boomsbeat.com/articles/5191/20140613/50-interesting-facts-about-lionel-messi-had-a-growth-hormone-deficiency-problem-as-a-boy-most-wealthiest-soccer-player-of-2014.htm -->
