@@ -1,50 +1,96 @@
 <head>
   <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet'  type='text/css'>
 </head>
-
 <style>
-  h1{
+  body{
    font-family:Libre Baskerville; 
-   font-size: 70px;
-  }
-  h2{
-   font-family:Libre Baskerville; 
-   font-size: 25px;
-  }
-  #boot{
-    font-family: Libre Baskerville;
-    font-size:10;
-  }
-  #caption{
-   font-family:Libre Baskerville; 
-   font-size: 12px;
   }
 </style>
 
 <div class="container">
   <div class="jumbotron">
 
-    <h1 class="text-center">Tribute to        Leo   Messi
+    <h1 class="text-center" style="font-size:50px">Tribute to Leo Messi
     </h1>
-    <h2 class="text-center">
+    <h2 class="text-center" style="font-size:30px">
       Genius of modern football - magical "10" from La Masia Barça
     </h2>
           <img src="http://images.performgroup.com/di/library/goal_es/be/28/messi-ucl-all-games_1v622wlfla0651jhy9px1b2me1.jpg" class="img-thumbnail" alt="Football genius">
-        <div class="caption img-thumbnail text-center" id="caption"><i>Leo Messi after scoring his 500 goal in FC Barcelona - Barça Legend</i></div>
+        <div class="caption img-thumbnail text-center" id="caption" style="font-size:10px"><i>Leo Messi after scoring his 500 goal in FC Barcelona - Barça Legend</i></div>
     
             <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
     </div>
-    <h3 class="text-center" font-family="Libre Baskerville"><i> 10 facts you would not know about Messi </i></h3>
+    <br>
+    <h3 class="text-center" style="font-size:25px" ><strong><i> 10 facts you would not know about Messi </strong></i></h3>
  <!--
     <a href="https://en.wikipedia.org/wiki/Lionel_Messi" target="_blank"> Messi on Wikipedia </a> -->
+    <br>
+    <div class="text-left" style="font-size:17px">
+  <ol>
+    <li> At the age of 17, he made his league debut against RCD Espanyol and became the third youngest person ever to play on Barcelona. At that time he was also the youngest player to ever score for Barcelona. </li>
+    <br><li>
+      Messi's first contract with Barcelona was detailed out on a paper napkin! FC Barcelona sporting director Carles Rexach was so impressed with Messi's skills that he wanted to make a contract immediately and there was no paper available at that time.
+    </li><br>
+        <li>
+     Messi holds two passports - Argentina's and Spain's. He became a Spanish citizen in September 2005.
+    </li><br>
+            <li>
+     His 2005 international debut lasted 47 seconds when he received a red card after coming on as a substitute.
+    </li><br>
+            <li>
+     One of Lionel's nicknames is "The Flea" due to his speed and agility.
+    </li><br>
+            <li>
+     Two of the musical genres that Messi enjoys listening to are Samba and Cumbi.
+    </li><br>
+            <li>
+     Messi is not only a great soccer player, but he's a really good person. Messi is the founder of the organization, Leo Messi Foundation, which helps give children the best opportunities for education and health care. His foundation, with the help of Herbalife, helps to pay for medical treatment, transportation and recuperation for children diagnosed with major medical problems.
+    </li><br>
+            <li>
+     Lionel Messi also had the boy's name and handprints tattooed on his left calf.
+    </li><br>
+            <li>
+     Messi has been a very shy person right from his childhood and this trait continues to until even now. Apparently, it is very difficult to make him talk on the phone. Most the important messages that have to be delivered to him and received from him take place through SMS.
+    </li><br>
+            <li>
+     His favorite pastimes include relaxing with his girlfriend and playing with his son, Thiago. He is also an avid PlayStation player.
+    </li>
+  </ol>
+     <h4>
+       Craziest reactions on Messi goals 
+       </h4>
+      <div class="row">
+        <div class="col-xs-6">
+      <iframe class="img-responsive" width="500" height="315"
+src="https://www.youtube.com/embed/Uu3pCM7uGuI">
+</iframe>
+        </div>
+        <div class="col-xs-6">
+          <iframe width="500" height="315"
+src="https://www.youtube.com/embed/shdldI3IzQc">
+</iframe>
+        </div>
+      </div><br>
+      <h5>
+        Quotes on Messi
+      </h5>
+      <blockquote style="font-size:15px">
+                  <p><em>
+        “He is the best player I have ever seen."<br>
+“The best thing about him is not what he does but how simple he makes everything look."<br>
+“He is not just the best player because he can dribble past three or four players, it is because he does it better than anyone in the world.”
+                    </em></p>
+            <footer><cite style="font-size:12px">Former FCB coach - Pep Guardiola</cite></footer>
+          </blockquote>
+      <br>
+      <h6>More on Leo you can find here <a href="https://en.wikipedia.org/wiki/Lionel_Messi" target="_blank">Wikipedia entry</a>.</h6>
+</div>
   </div> 
 </div>
-
-<div class="text-center">
+<div class="text-center" style="font-size:8px">
   <p id="boot">
     <i>
-    Coded by LemonPL
+    Written and coded by LemonPL
     </i>
   </p>
 </div>
-<!-- http://www.boomsbeat.com/articles/5191/20140613/50-interesting-facts-about-lionel-messi-had-a-growth-hormone-deficiency-problem-as-a-boy-most-wealthiest-soccer-player-of-2014.htm -->
